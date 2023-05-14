@@ -32,7 +32,14 @@ module.exports = {
 };
 ```
 
-Now, whenever you have a TODO comment with an expired date in your codebase, ESLint will raise an error.
+Now, whenever you have a TODO comment with an expired date in your codebase, ESLint will raise an error:
+
+```javascript
+// This will raise an error
+// TODO: 2020-01-01: This is an expired TODO comment
+```
+
+As simple as that!
 
 ## Contributing
 
