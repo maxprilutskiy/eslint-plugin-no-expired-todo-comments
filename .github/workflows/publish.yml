@@ -1,6 +1,9 @@
 # uses pnpm
 name: Publish
 
+permissions:
+  contents: read
+
 on:
   workflow_dispatch:
   push:
