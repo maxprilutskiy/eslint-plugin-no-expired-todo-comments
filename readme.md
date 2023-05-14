@@ -36,7 +36,7 @@ Now, whenever you have a TODO comment with an expired date in your codebase, ESL
 
 ## Contributing
 
-We welcome contributions from the community! If you encounter any bugs or issues, please open an issue on the project's GitHub page. If you'd like to contribute code, please fork the project and submit a pull request with your changes.
+Contributions from the community are very much welcome! If you encounter any bugs or issues, please open an issue on the project's GitHub page. If you'd like to contribute code, please fork the project and submit a pull request with your changes.
 
 ## License
 
