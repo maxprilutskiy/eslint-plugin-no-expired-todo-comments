@@ -5,10 +5,7 @@
   "author": "Max Prilutskiy",
   "license": "MIT",
   "main": "lib/index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/maxprilutskiy/eslint-plugin-no-expired-todo-comments.git"
-  },
+  "repository": "https://github.com/maxprilutskiy/eslint-plugin-no-expired-todo-comments.git",
   "scripts": {
     "release": "semantic-release",
     "test": "node tests/index.test.js"
