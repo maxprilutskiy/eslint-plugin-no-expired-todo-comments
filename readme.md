@@ -6,7 +6,7 @@
 
 The eslint-plugin-no-expired-todo-comments is an ESLint plugin that provides a new rule for detecting TODO comments with expired dates. This plugin ensures that you don't have any outdated TODO comments in your codebase, helping you keep your code clean and organized.
 
-Inspired by [@parker_codes](https://twitter.com/parker_codes)'s [parker-codes/todo-by](https://github.com/parker-codes/todo_by), check it out!
+Inspired by [@parker_codes](https://twitter.com/parker_codes)'s [parker-codes/todo-by](https://github.com/parker-codes/todo_by), check it out too!
 
 ## Installation
 
