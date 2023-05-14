@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-no-expired-todo-comments",
+  "description": "ESLint plugin to prevent TODO comments with expired dates.",
+  "version": "1.0.0",
+  "author": "Max Prilutskiy",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "prepublish": "pnpm run test",
+    "test": "node tests/index.test.js"
+  },
+  "files": [
+    "lib",
+    "utils",
+    "README.md",
+    "package.json",
+    "LICENSE"
+  ],
+  "keywords": [
+    "eslint",
+    "plugin",
+    "todo",
+    "comments"
+  ],
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
